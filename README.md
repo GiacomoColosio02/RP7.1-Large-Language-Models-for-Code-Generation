@@ -1,8 +1,9 @@
-# RP7.1-Large-Language-Models-for-Code-Generation
+# RP7.1-Large-Language-Models-for-Code-Generation 
+##fRiend At codinG: LLMs combined with RAG for code generation
+--- 
 
 This repository contains a modular system designed to both generate and evaluate source code using state-of-the-art Large Language Models (LLMs) integrated with Retrieval-Augmented Generation (RAG) techniques. The project is split into two main parts: **Code Generation** and **Code Evaluation**.
 
----
 
 ## Table of Contents
 
